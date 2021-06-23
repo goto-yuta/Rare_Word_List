@@ -18,4 +18,4 @@ English rare word list mainly cited from below.
 - [ ] https://www.theidioms.com/list/
 - [x] https://www.bkacontent.com/40-popular-idioms-and-their-meanings/
 - [x] https://www.thoughtco.com/common-english-idioms-3211646
-- [ ] https://lemongrad.com/idioms-with-meanings-and-examples
+- [x] https://lemongrad.com/idioms-with-meanings-and-examples
