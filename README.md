@@ -13,8 +13,7 @@ English rare word list mainly cited from below.
 ## Idiom
 - [x] https://7esl.com/english-idioms/
 - [x] https://www.idioms4you.com/frequency/Idiom_Usage_Frequency_Index.html
-- [ ] https://en.wikipedia.org/wiki/English-language_idioms
-- [ ] https://en.wikipedia.org/wiki/English-language_idioms
+- [x] https://en.wikipedia.org/wiki/English-language_idioms
 - [ ] https://www.fluentu.com/blog/english/english-idioms-6/
 - [ ] https://www.theidioms.com/list/
 - [ ] https://www.bkacontent.com/40-popular-idioms-and-their-meanings/
