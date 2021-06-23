@@ -17,5 +17,5 @@ English rare word list mainly cited from below.
 - [x] https://www.fluentu.com/blog/english/english-idioms-6/
 - [ ] https://www.theidioms.com/list/
 - [x] https://www.bkacontent.com/40-popular-idioms-and-their-meanings/
-- [ ] https://www.thoughtco.com/common-english-idioms-3211646
+- [x] https://www.thoughtco.com/common-english-idioms-3211646
 - [ ] https://lemongrad.com/idioms-with-meanings-and-examples
