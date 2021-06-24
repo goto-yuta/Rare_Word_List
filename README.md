@@ -5,7 +5,7 @@ English rare word list mainly cited from below.
 - [x] https://phrontistery.info/a.html
 - [ ] https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
 - [x] https://grammar.yourdictionary.com/50-rare-words-that-are-useful-to-know.html
-- [ ] https://www.lexico.com/explore/weird-and-wonderful-words
+- [x] https://www.lexico.com/explore/weird-and-wonderful-words
 - [x] http://tolkiengateway.net/wiki/Uncommon_words
 - [ ] http://ucrel.lancs.ac.uk/bncfreq/flists.html
 
